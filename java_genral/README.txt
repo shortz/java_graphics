@@ -1,7 +1,3 @@
-Kareem nassralla -308554492
-Or Shwartz - 305325318
-
-
 Files description:
 Sockspy.java - The main server - contains the server socket, the thread pool and
 the main function.
