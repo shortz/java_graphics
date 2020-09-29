@@ -13,3 +13,6 @@ Socks4ClientMessage.java - Client message structure.
 How to run the server:
 javac -cp . -d . Sockspy.java Pipe.java SocksProxyWorker.java Socks4ClientMessages.java
 java Sockspy
+
+
+check
